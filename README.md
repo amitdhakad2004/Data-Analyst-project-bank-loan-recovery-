@@ -1,2 +1,4 @@
 # Data-Analyst-project-bank-loan-recovery-
-Data Analyst project (bank loan recovery )
+project objective :-
+ Loan Recovery Analysis Project – End-to-End Summary
+In this project, I analyzed loan recovery data using SQL, Python (Pandas), and Power BI to help a bank understand and improve how it collects money from customers. Using SQL, I explored patterns in repayment behavior, profiled high-risk customers, calculated recovery and risk scores, and applied Pareto analysis to find that a small group of people cause most of the unpaid dues. In Python, I used Pandas to clean the data and identify trends such as who pays on time, which payment methods are used by defaulters, and how effective the bank’s recovery actions are. With Power BI, I built an interactive dashboard to show loan performance metrics (like default rate, paid vs due amount), customer risk segments, and visual insights like top defaulters or risky loan types. This full-stack analysis helps the bank make better decisions, recover more money, and reduce future loan defaults
